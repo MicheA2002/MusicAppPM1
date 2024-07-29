@@ -3,4 +3,5 @@
     <string name="perfil_usuario">Perfil de usuario</string>
     <string name="cambio_contrasena">Cambiar contraseña</string>
     <string name="cerrar_sesion">Cerrar sesion</string>
+    <string name="confirmar" />
 </resources>
